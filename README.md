@@ -1,3 +1,3 @@
 # test
 
-Movie app zahialgiin page hiilee
+Movie app zahialgiin page
